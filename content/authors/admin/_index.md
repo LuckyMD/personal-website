@@ -38,4 +38,4 @@ email: ""
 ---
 Malte Luecken is a team leader for integrative lung analysis in the machine learning group of Prof. Dr. Dr. Fabian Theis at the Helmholtz Center Munich. With a background in physics, statistics, and bioinformatics, Malte has extensive expertise in single-cell genomics, data integration, benchmarking, and network analysis. Together with his network of experimental collaborators, he has used this expertise to tackle complex biological and medical challenges in various lung and brain diseases. Overall, his research goal is to understand human variation on the molecular level leveraging single-cell measurements and methods from machine learning and classical statistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_academic.pdf" "newtab" >}}resumé{{< /staticref >}}.
